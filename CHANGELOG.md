@@ -1,3 +1,13 @@
+<a name="1.1.5"></a>
+## [1.1.5](https://github.com/beilly/fvm/compare/v1.1.4...v1.1.5) (2020-03-04)
+
+
+### Bug Fixes
+
+* update github url ([684260c](https://github.com/beilly/fvm/commit/684260c))
+
+
+
 ## [1.1.4](https://github.com/dashixiong91/fvm/compare/v1.1.3...v1.1.4) (2019-11-18)
 
 
