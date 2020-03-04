@@ -1,3 +1,13 @@
+<a name="1.1.6"></a>
+## [1.1.6](https://github.com/beilly/fvm/compare/v1.1.5...v1.1.6) (2020-03-04)
+
+
+### Bug Fixes
+
+* tmp permission err ([38f97bf](https://github.com/beilly/fvm/commit/38f97bf))
+
+
+
 <a name="1.1.5"></a>
 ## [1.1.5](https://github.com/beilly/fvm/compare/v1.1.4...v1.1.5) (2020-03-04)
 
