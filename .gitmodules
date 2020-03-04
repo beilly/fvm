@@ -1,0 +1,3 @@
+[submodule "homebrew-fvm"]
+	path = homebrew-fvm
+	url = https://github.com/beilly/homebrew-fvm.git
